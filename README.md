@@ -169,9 +169,8 @@ const vishal = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-singh)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Say%20hi-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/VishGit3002)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalsingh@email.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-mca)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vish.singh3020@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-VishGit3002-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/VishGit3002)
 
 > 💬 Always open to **projects, collabs, job opportunities, or just a good dev conversation.** Don't hesitate!
